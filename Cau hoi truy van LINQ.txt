@@ -1,1 +1,2 @@
 1. Cho biết mã khách hàng và tên khách hàng của phong gym.
+2. Cho biết địa chỉ, tên và số điện thoại của các khách hàng loại VIP.
