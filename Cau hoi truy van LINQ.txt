@@ -1,2 +1,5 @@
 1. Cho biết mã khách hàng và tên khách hàng của phong gym.
 2. Cho biết địa chỉ, tên và số điện thoại của các khách hàng loại VIP.
+3.Cho biết mã học viên,họ tên của những học viên học lớp Yoga chiều T6 từ 15h đến 17h
+4.Liệt kê những trainor làm việc tại phòng Gym.
+5.Cho biết những lớp được giảng dạy bởi HLV Al Morgan.
