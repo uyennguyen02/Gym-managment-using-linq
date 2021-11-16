@@ -1,0 +1,16 @@
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.exe
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.deps.json
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.runtimeconfig.json
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.runtimeconfig.dev.json
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.dll
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\ref\Baitap_cuoiki.dll
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\bin\Debug\net5.0\Baitap_cuoiki.pdb
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.csproj.AssemblyReference.cache
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.AssemblyInfoInputs.cache
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.AssemblyInfo.cs
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.csproj.CoreCompileInputs.cache
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.dll
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\ref\Baitap_cuoiki.dll
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.pdb
+E:\Programs\C#\QL_GYM\Baitap_cuoiki\obj\Debug\net5.0\Baitap_cuoiki.genruntimeconfig.cache
