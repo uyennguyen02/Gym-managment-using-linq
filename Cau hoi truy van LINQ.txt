@@ -1,2 +1,10 @@
 1. Cho biết mã khách hàng và tên khách hàng của phong gym.
 2. Cho biết địa chỉ, tên và số điện thoại của các khách hàng loại VIP.
+3. Cho biết số lượng tiền trong một giao dịch của khách hàng.
+4. Cho biết tất cả  tên thành viên tập cùng với một PT.
+5. Cho biết các tài khoản đã hết hạn.
+6. Liệt kê mã và địa chỉ các chi nhánh của phòng Gym Duc-Uyen.
+7. Cho biết mã và địa chỉ của các thiết bị không hoạt động.
+8. Liệt kê danh sách khách hàn đã gia hạn thẻ.
+9. Cho biết số lần giao dịch của khách hàng nhiều nhất. 
+10. Liệt kê tên các nhân viên là PT.
