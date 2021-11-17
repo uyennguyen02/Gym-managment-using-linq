@@ -1,10 +1,9 @@
 1. Cho biết mã khách hàng và tên khách hàng của phong gym.
 2. Cho biết địa chỉ, tên và số điện thoại của các khách hàng loại VIP.
-3. Cho biết số lượng tiền trong một giao dịch của khách hàng.
-4. Cho biết tất cả  tên thành viên tập cùng với một PT.
-5. Cho biết các tài khoản đã hết hạn.
-6. Liệt kê mã và địa chỉ các chi nhánh của phòng Gym Duc-Uyen.
-7. Cho biết mã và địa chỉ của các thiết bị không hoạt động.
-8. Liệt kê danh sách khách hàn đã gia hạn thẻ.
-9. Cho biết số lần giao dịch của khách hàng nhiều nhất. 
-10. Liệt kê tên các nhân viên là PT.
+3.Liệt kê những trainor làm việc tại phòng GYM
+4. Cho biết email và SĐT của những thành viên không học lớp Dance sáng t5 từ 7h đến 9h.
+5. Cho biết trainor nào có lương cao nhất trong CLB.
+6.Cho biết trainor nào có lương thấp nhất trong CLB.
+7.Cho biết lịch giảng dạy của HLV Al Morgan.
+8.Cho biết mã học viên,họ và tên những học viên học lớp Yoga chiều T6 từ 15h đến 17h.
+9.Liệt kê những học viên lớp Kickfit đã thanh toán học phí Tháng 10 năm 2021
